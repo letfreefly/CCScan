@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_register"
+        android:icon="@drawable/ic_register"
+        android:title="@string/tab_register"/>
+
+    <item
+        android:id="@+id/navigation_records"
+        android:icon="@drawable/ic_records"
+        android:title="@string/tab_records"/>
+
+    <item
+        android:id="@+id/navigation_database"
+        android:icon="@drawable/ic_database"
+        android:title="@string/tab_database"/>
+
+</menu>
